@@ -1,7 +1,7 @@
 # habitown-tac-pp
 It is for providing Privacy docs for App Store Connect 
 
-/Users/harungokcegoz/Documents/GitHub/Habitown/assets/legal/privacy-text.txt
+
   1,10: Habitown Privacy Policy
   3,6: Your privacy is important to us. It is Habitown’s policy to respect your privacy regarding any information we may collect from you across our app, Habitown, and other services we operate.
   3,74: Your privacy is important to us. It is Habitown’s policy to respect your privacy regarding any information we may collect from you across our app, Habitown, and other services we operate.
